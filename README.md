@@ -1,4 +1,10 @@
-# Ajax proxy
+# Explore California
+This is a practice project I did following the [JavaScript: Ajax and Fetch course](https://www.linkedin.com/learning/javascript-ajax-and-fetch) [JavaScript: Async course](https://www.linkedin.com/learning/javascript-async) on LinkedIn Learning. We first build the Async fetching JavaScript from two different APIs to fill the website form, and later deploy a Ajax proxy server using Node.JS on the Heroku to prevent exposing the API to hostile person.
+
+## Front-end: HTML + CSS
+All in in the frontend folder.
+
+## Backend: Ajax proxy
 
 A proxy server for redirecting HTTP requests from client-side code using credentials stored on the back end.
 
